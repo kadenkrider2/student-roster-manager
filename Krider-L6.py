@@ -1,13 +1,4 @@
-'''
-NAME: Kaden Krider
 
-DESC: This python module will display list of roster files in a directory whenever user wants to create roster
-
-ASN: L6
-
-DATE: November 25, 2022
-
-'''
 
 name = input("Please enter a name: ")
 
